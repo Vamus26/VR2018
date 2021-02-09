@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass4", "Ass4.csproj", "{A49FCDB9-9AF4-7FB6-39DA-9BC6E1D92FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass4.Editor", "Ass4.Editor.csproj", "{5D34F590-9BB6-6C65-159B-A4BA29ED5423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49FCDB9-9AF4-7FB6-39DA-9BC6E1D92FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49FCDB9-9AF4-7FB6-39DA-9BC6E1D92FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49FCDB9-9AF4-7FB6-39DA-9BC6E1D92FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49FCDB9-9AF4-7FB6-39DA-9BC6E1D92FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D34F590-9BB6-6C65-159B-A4BA29ED5423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D34F590-9BB6-6C65-159B-A4BA29ED5423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D34F590-9BB6-6C65-159B-A4BA29ED5423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D34F590-9BB6-6C65-159B-A4BA29ED5423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
