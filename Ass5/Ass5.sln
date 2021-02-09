@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass5", "Ass5.csproj", "{DCE86599-C25C-881D-6338-4ABE041BB370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass5.Editor", "Ass5.Editor.csproj", "{E7EB60DF-BD05-BA53-FDBD-2B55BC7C563D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE86599-C25C-881D-6338-4ABE041BB370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE86599-C25C-881D-6338-4ABE041BB370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE86599-C25C-881D-6338-4ABE041BB370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE86599-C25C-881D-6338-4ABE041BB370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EB60DF-BD05-BA53-FDBD-2B55BC7C563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EB60DF-BD05-BA53-FDBD-2B55BC7C563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EB60DF-BD05-BA53-FDBD-2B55BC7C563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EB60DF-BD05-BA53-FDBD-2B55BC7C563D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
